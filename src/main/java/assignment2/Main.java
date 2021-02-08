@@ -5,6 +5,9 @@ import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Main {
+    /*
+        Author: Brendan Robert
+     */
     public static void main(String[] args){
         System.out.println("Welcome to the Sorting method lab");
         System.out.println("Author: Brendan Robert");
